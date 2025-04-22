@@ -4,7 +4,7 @@
 
 A 3-class (Apples, Cherries and Tomatoes) classification problem.
 
-Train on some (varieties of) fruits and vegetables and test on other (varieties of) fruits and vegetables.
+The task is to assign each picture to one of three classes. Training is done on some varieties of Apples, Cherries and Tomatoes and the test is done on other varieties of Apples, Cherries and Tomatoes.
 
 Training and Test folders contain different varieties of fruits and vegetables. 
 This is different from the classic Fruits-360 dataset where pictures of the same fruit were in both Training and Test folders!
