@@ -1,6 +1,6 @@
 # Fruits-360: 3-body problem #
 
-## Version: 2025.04.21.0 ##
+## Version: 2025.06.18.0 ##
 
 A 3-class (Apples, Cherries and Tomatoes) classification problem.
 
