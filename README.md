@@ -1,6 +1,6 @@
 # Fruits-360: 3-body problem #
 
-## Version: 2025.06.18.2 ##
+## Version: 2025.06.18.3 ##
 
 A 3-class (Apples, Cherries and Tomatoes) classification problem.
 
@@ -11,11 +11,11 @@ This is different from the classic Fruits-360 dataset where pictures of the same
 
 ## Dataset properties ##
 
-Total number of images: 48236.
+Total number of images: 49236.
 
 Training set size: 35426 images.
 
-Test set size: 12810 images.
+Test set size: 13810 images.
 
 Number of classes: 3 (Apples, Cherries, Tomatoes).
 
